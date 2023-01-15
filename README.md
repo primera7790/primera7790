@@ -12,7 +12,7 @@
  
 - 🖋️ How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Gmail-black?logo=gmail)](mailto:def.primera@gmail.com)[![Linkedin Badge](https://img.shields.io/badge/Telegram-black?logo=telegram)](https://t.me/good_evil_inc)
 
----
+<h1></h1>
 
 ### ⛏️ Languages and Tools :
 
