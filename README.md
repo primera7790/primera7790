@@ -1,5 +1,5 @@
 <h1 align="center">ℍ𝕚 𝕥𝕙𝕖𝕣𝕖, 𝕀'𝕞 𝔸𝕟𝕕𝕣𝕖𝕪 <img src="https://flomaster.club/uploads/posts/2022-12/1672437857_flomaster-club-p-programmist-illyustratsiya-pinterest-39.png" width="100"/></h1>
-<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=4CF761&width=630&lines=The+self-taught+programmer+who+is+making+his+own+way" alt="Typing SVG" /></a></h3>
+<h3 align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=3DC84E&width=630&lines=The+self-taught+programmer+who+is+making+his+own+way)](https://git.io/typing-svg)</h3>
 </div>
 
 ### :alien: About Me :
