@@ -4,7 +4,7 @@
 
 ### :alien: About Me :
 
-- 🕶️ I’m ready to become a backend developer at a cool company.
+- 🕶️ Direction to ML.
 
 - 👓 Technician, analyst... numbers, tables, optimization and pounding the keyboard - that's what i like.
 
