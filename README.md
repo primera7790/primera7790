@@ -35,7 +35,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="postgresql" alt="postgresql" width="40" height="40"/>&nbsp;
 </div>
 <div>
-  <img src="https://blogs.windows.com/wp-content/uploads/prod/sites/11/2015/10/W10-1656225.jpg" title="windows10" alt="windows10" width="40" height="40"/>&nbsp;
+  <img src="https://i.pinimg.com/1200x/c2/b5/bb/c2b5bb82dd86dad0d71dcdd7d9b93382.jpg" title="windows10" alt="windows10" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="ubuntu" alt="ubuntu" width="40" height="40"/>&nbsp;
 </div>
