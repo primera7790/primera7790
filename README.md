@@ -6,7 +6,7 @@
 
 - 🕶️ Direction to ML.
 
-- 👓 Technician, analyst... numbers, tables, optimization and pounding the keyboard - that's what i like.
+- 👓 Technician, analyst... numbers, tables, optimization - that's what i like.
 
 - 🔎 My opinion is that the little things make a big difference.
  
