@@ -4,11 +4,11 @@
 
 ### :alien: About Me :
 
-- 🕶️ Direction to ML.
+- 🕶️ Direction to ML;
 
-- 👓 Technician, analyst... numbers, tables, optimization - that's what i like.
+- 👓 Technician, analyst... numbers, tables, optimization - that's what i like;
 
-- 🔎 My opinion is that the little things make a big difference.
+- 🔎 My opinion is that the little things make a big difference;
  
 - 🖋️ How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Gmail-black?logo=gmail)](mailto:def.primera@gmail.com)[![Linkedin Badge](https://img.shields.io/badge/Telegram-black?logo=telegram)](https://t.me/good_evil_inc)
 
