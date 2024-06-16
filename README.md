@@ -15,6 +15,10 @@
 
 <h1></h1>
 
+### &nbsp; >> My [<img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original-wordmark.svg" title="kaggle.com\primera7790" alt="kaggle" width="60" height="60" align="center">](https://www.kaggle.com/primera7790) profile <<
+
+<h1></h1>
+
 ### ⛏️ Languages and Tools :
 | python |
 |-|
