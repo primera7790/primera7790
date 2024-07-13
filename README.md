@@ -24,21 +24,21 @@
 |-|
 | &nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/> |  
 
-| numpy | sklearn | pandas | matplotlib | pytorch |
-|-|-|-|-|-|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="numpy" alt="numpy" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="scikitlearn" alt="scikitlearn" width="40" height="40"/> | &nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="pandas" alt="pandas" width="40" height="40"/> | &nbsp;&nbsp;&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="matplotlib" alt="matplotlib" width="40" height="40"/> | &nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="pytorch" alt="pytorch" width="40" height="40"/> |
+| numpy | sklearn | pandas | matplotlib | pytorch | airflow |
+|-|-|-|-|-|-|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="numpy" alt="numpy" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="scikitlearn" alt="scikitlearn" width="40" height="40"/> | &nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="pandas" alt="pandas" width="40" height="40"/> | &nbsp;&nbsp;&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="matplotlib" alt="matplotlib" width="40" height="40"/> | &nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="pytorch" alt="pytorch" width="40" height="40"/> | &nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/apacheairflow/apacheairflow-original.svg" title="airflow" alt="airflow" width="40" height="40"/> |
 
-| sqlite | mysql | postgresql |
-|-|-|-|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="sqlite" alt="sqlite" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/> | &nbsp;&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="postgresql" alt="postgresql" width="40" height="40"/> |
+| sqlite | mysql | postgresql | sqlalchemy |
+|-|-|-|-|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="sqlite" alt="sqlite" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/> | &nbsp;&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="postgresql" alt="postgresql" width="40" height="40"/> | &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original.svg" title="sqlalchemy" alt="sqlalchemy" width="40" height="40"/>
 
 | git | github | docker |
 |-|-|-|
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github" alt="github" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker" alt="docker" width="40" height="40"/> |
 
-| django | html5 | css3 |
-|-|-|-|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="django" alt="django" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css3" alt="css3" width="40" height="40"/> |
+| css3 | html5 | django | fastapi |
+|-|-|-|-|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css3" alt="css3" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="django" alt="django" width="40" height="40"/> | &nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="fastapi" alt="fastapi" width="40" height="40"/> |
 
 | pycharm | jupiter | colab |
 |-|-|-|
