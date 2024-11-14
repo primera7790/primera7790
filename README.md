@@ -13,9 +13,9 @@
  
 🖋️ How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Gmail-black?logo=gmail)](mailto:def.primera@gmail.com)[![Linkedin Badge](https://img.shields.io/badge/Telegram-black?logo=telegram)](https://t.me/good_evil_inc)
 
-<h1></h1>
+<!-- <h1></h1>
 
-### &nbsp; >> My [<img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original-wordmark.svg" title="kaggle.com\primera7790" alt="kaggle" width="60" height="60" align="center">](https://www.kaggle.com/primera7790) profile <<
+### &nbsp; >> My [<img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original-wordmark.svg" title="kaggle.com\primera7790" alt="kaggle" width="60" height="60" align="center">](https://www.kaggle.com/primera7790) profile << -->
 
 <h1></h1>
 
